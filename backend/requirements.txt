@@ -1,13 +1,1 @@
-﻿fastapi
-uvicorn
-python-multipart
-sqlalchemy
-asyncpg
-httpx
-python-dotenv
-twilio
-web3
-
-pytest
-pytest-asyncio
-slowapi
+﻿fastapi\nuvicorn\npython-multipart\nsqlalchemy\nasyncpg\nhttpx\npython-dotenv\ntwilio\nweb3\n\npytest\npytest-asyncio\nslowapi
